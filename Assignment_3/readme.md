@@ -1,4 +1,4 @@
-## Assignment 1 : Multivariable Variable Unconstrained Optimization techniques
+## Assignment 3 : Multivariable Variable Unconstrained Optimization techniques
 <br/>  The major search methods covered in this assignment are :
   * Random walk method with direction exploitation
   * Univariate method
